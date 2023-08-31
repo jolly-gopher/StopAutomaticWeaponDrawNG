@@ -7,5 +7,7 @@ Based on CommonLibSSE NG.
 Based on the programming and reverse engineering work of mod author FlyingParticle﻿ and his mod Stop Trigger Unsheathing for VR.  
 
 https://www.nexusmods.com/skyrimspecialedition/users/8635675
+
 https://www.nexusmods.com/skyrimspecialedition/mods/55962
+
 https://github.com/adamhynek/stuf_vr
